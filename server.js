@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Your Telnyx details
 const TELNYX_API_KEY = process.env.TELNYX_API_KEY;
-const CONNECTION_ID = "3055379527111804158";
+const CONNECTION_ID = "3055392596437239165";
 const FROM_NUMBER = "+18022327369";
 const WEBHOOK_URL = "https://telnyx-ivr-webhook-xuo9.onrender.com/webhook";
 
